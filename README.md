@@ -223,4 +223,4 @@ DiRT Rally is offered as a full free version, with all features and updates incl
 Don't wait any longer! Join the thrilling world of rally racing and download DiRT Rally for free today!
 
 ---
-**Last updated:** 2026-10-03 23:33:38 UTC
+**Last updated:** 2026-10-04 04:45:01 UTC
